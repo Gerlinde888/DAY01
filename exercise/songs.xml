@@ -7,7 +7,8 @@
         <genre>Rock</genre>
         <year>2006</year>
         <album>Bohemian Rhapsody</album>
-        <image>https://m.media-amazon.com/images/I/517rUY2Dz6L._AC_UY218_.jpg</image>
+        <image>https://m.media-amazon.com/images/I/31ht9Iq+z6L.jpg</image>
+        <!-- <image>https://m.media-amazon.com/images/I/517rUY2Dz6L._AC_UY218_.jpg</image> -->
    </song>
    <song id="102">
         <title>One Day I'll Fly Away</title>
