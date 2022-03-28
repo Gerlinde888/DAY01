@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<songgraphy>
+   <song id="101">
+        <title>Don't stop me now</title>
+        <artist>Queen</artist>
+        <country>United Kingdom</country>   
+        <genre>Rock</genre>
+        <year>2006</year>
+        <album>Bohemian Rhapsody</album>
+        <image>https://m.media-amazon.com/images/I/517rUY2Dz6L._AC_UY218_.jpg</image>
+   </song>
+   <song id="102">
+        <title>One Day I'll Fly Away</title>
+        <artist>Randy Crawford</artist>
+        <country>United Kingdom</country>   
+        <genre>R&amp;B/Soul</genre>
+        <year>1980</year>
+       <album>Now We May Begin</album>
+       <image>https://m.media-amazon.com/images/I/5140ejRxcqL._SY355_.jpg</image>
+       
+   </song>
+   <song id="103">
+        <title>Fantasy</title>
+        <artist>Earth Wind and Fire</artist>
+        <country>United Kingdom</country>   
+        <genre>Disco, Funk</genre>
+        <year>1977</year>
+        <album>All 'n All</album>
+        <image>https://m.media-amazon.com/images/I/81Bza5wwW4L._AC_UY218_.jpg</image>
+   </song>
+   <song id="104">
+        <title>Shallow</title>
+        <artist>Lady Gaga, Bradley Cooper</artist>
+        <country>United States</country>   
+        <genre>Rock</genre>
+        <year>2018</year>
+        <album>A Star is Born Soundtrack</album>
+        <image>https://m.media-amazon.com/images/I/71Lp8ou83VL._AC_UY218_.jpg</image>
+   </song>
+</songgraphy>
