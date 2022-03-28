@@ -42,12 +42,12 @@
                    <div class="card" style="width: 18rem; height: 480px">
                    <img src="${songs[i].getElementsByTagName('image')[0].childNodes[0].nodeValue}" class="card-img-top" alt="${songs[i].getElementsByTagName('title')[0].childNodes[0].nodeValue}">
                    <div class="col text-center">
-                       <h5 class="card-title">${songs[i].getElementsByTagName('title')[0].childNodes[0].nodeValue}</h5>
-                       <p class="card-text">${songs[i].getElementsByTagName('artist')[0].childNodes[0].nodeValue}</p>
-                       <p class="card-text">${songs[i].getElementsByTagName('country')[0].childNodes[0].nodeValue}</p>
-                       <p class="card-title">${songs[i].getElementsByTagName('genre')[0].childNodes[0].nodeValue}</p>
-                       <p class="card-text">${songs[i].getElementsByTagName('year')[0].childNodes[0].nodeValue}</p></div>
-                       <p class="card-text">${songs[i].getElementsByTagName('album')[0].childNodes[0].nodeValue}</p></div>
+                       <h5 class="card-title">Title: ${songs[i].getElementsByTagName('title')[0].childNodes[0].nodeValue}</h5>
+                       <p class="card-text">Artist: ${songs[i].getElementsByTagName('artist')[0].childNodes[0].nodeValue}</p>
+                       <p class="card-text">Country: ${songs[i].getElementsByTagName('country')[0].childNodes[0].nodeValue}</p>
+                       <p class="card-title">Genre: ${songs[i].getElementsByTagName('genre')[0].childNodes[0].nodeValue}</p>
+                       <p class="card-text">Year: ${songs[i].getElementsByTagName('year')[0].childNodes[0].nodeValue}</p></div>
+                       <p class="card-text">Album: ${songs[i].getElementsByTagName('album')[0].childNodes[0].nodeValue}</p></div>
                     </div>
                    </div>
                </div> `
